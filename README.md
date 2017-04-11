@@ -1,5 +1,5 @@
 # SWCheckin
-Quick and dirty script for automatically checking into Southwest flights. 
+Quick and dirty script for automatically checking into Southwest flights. Once you fill-in your information and schedule the task, you'll be checked-in as soon as possible and have your boarding passes automatically emailed to you. 
 
 # Usage 
 
